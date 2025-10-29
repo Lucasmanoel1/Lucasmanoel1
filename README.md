@@ -25,7 +25,7 @@
   
 </div><br/>
 
-💻 Desenvolvedor com mais de 3 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
+💻 Software Engineer  com mais de 3 anos de experiência, apaixonado por compartilhar conhecimento e ajudar pessoas a entrarem no mundo da programação.
 
 
 
