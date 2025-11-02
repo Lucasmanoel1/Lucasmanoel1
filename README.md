@@ -8,7 +8,7 @@
   <a href="https://lucasmanoel.com"><img src="https://img.shields.io/badge/lucasmanoel.com-000?style=for-the-badge"></a> 
   <a href="https://www.linkedin.com/in/lucas-manoel-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/LucasMa30817760"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://drive.google.com/"><img src="https://img.shields.io/badge/Currículo-333?style=for-the-badge&logo=googledrive&logoColor=white"></a>
+  <a href="https://docs.google.com/document/d/1CSnfA_5M4BY194Vpr77CpiHzJnQ6AHtV/edit?usp=sharing&ouid=113555178244631562904&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Currículo-333?style=for-the-badge&logo=googledrive&logoColor=white"></a>
 </p>
 <br><br>
 <h2 align="center">Minhas Estatísticas no GitHub</h2>
@@ -57,9 +57,9 @@
 </p>
 
 <p align="center">
-  <a href="mailto:seuemail@example.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
+  <a href="mailto:lucasmanoel.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
   <a href="https://www.linkedin.com/in/lucas-manoel-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
   <a href="https://x.com/LucasMa30817760"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/seu_instagram/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/zzlucca_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
