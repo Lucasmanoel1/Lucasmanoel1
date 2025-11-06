@@ -1,7 +1,7 @@
 <h1 align="center">Lucas Manoel</h1> <br>
 
 <p align="center">
-  Desenvolvedor de Software com 3+ anos de experiência, apaixonado por tecnologia e por compartilhar conhecimento.
+  Engenheiro de Software com foco em desenvolvimento backend e integração de sistemas, aplicando princípios de arquitetura limpa e boas práticas de DevSecOps.
 </p>
 
 <p align="center">
