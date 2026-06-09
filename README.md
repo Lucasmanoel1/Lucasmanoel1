@@ -52,7 +52,12 @@
 </p>
 
 <br>
-
 <p align="center">
   <a href="mailto:contato@lucasmanoel.com">contato@lucasmanoel.com</a>
 </p>
+
+<div align="center">
+  <img src="https://raw.githubusercontent.com/Lucasmanoel1/Lucasmanoel1/output/snake.svg" alt="Snake animation" />
+</div>
+    
+
