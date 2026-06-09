@@ -1,65 +1,58 @@
-<h1 align="center">Lucas Manoel</h1> <br>
+<h1 align="center">Lucas Manoel</h1>
 
 <p align="center">
-  Engenheiro de Software com foco em desenvolvimento backend e integração de sistemas, aplicando princípios de arquitetura limpa e boas práticas de DevSecOps.
+  Desenvolvedor back-end focado em Java e Spring Framework, cursando Engenharia de Software na Estácio e complementando a formação com estudo autodidata diário em arquitetura e boas práticas de desenvolvimento. Tenho dois projetos completos com autenticação stateless via JWT, testes unitários com JUnit 5 e Mockito e ambientes orquestrados com Docker Compose. Estou em busca da primeira oportunidade como júnior.
 </p>
 
 <p align="center">
-  <a href="https://lucasmanoel.com"><img src="https://img.shields.io/badge/lucasmanoel.com-000?style=for-the-badge"></a> 
-  <a href="https://www.linkedin.com/in/lucas-manoel-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/LucasMa30817760"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://docs.google.com/document/d/1CSnfA_5M4BY194Vpr77CpiHzJnQ6AHtV/edit?usp=sharing&ouid=113555178244631562904&rtpof=true&sd=true"><img src="https://img.shields.io/badge/Currículo-333?style=for-the-badge&logo=googledrive&logoColor=white"></a>
-</p>
-<br><br>
-<h2 align="center">Minhas Estatísticas no GitHub</h2>
-<br>
-<div align="center">
-  <a href="https://github.com/lucasmanoel1">
-    <img height="180em" src="https://github-readme-stats.vercel.app/api?username=lucasmanoel1&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-    <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmanoel1&layout=compact&langs_count=7&theme=dark"/>
+  <a href="https://www.linkedin.com/in/lucas-manoel-developer/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
   </a>
+  <a href="mailto:contato@lucasmanoel.com">
+    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+  </a>
+  <a href="https://docs.google.com/document/d/1CSnfA_5M4BY194Vpr77CpiHzJnQ6AHtV/edit?usp=sharing&ouid=113555178244631562904&rtpof=true&sd=true">
+    <img src="https://img.shields.io/badge/Currículo-333?style=for-the-badge&logo=googledrive&logoColor=white">
+  </a>
+</p>
+
+<br>
+
+<div align="center">
+  <img src="https://streak-stats.demolab.com/?user=lucasmanoel1&theme=dark&hide_border=true" height="180em"/>
+  </br>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=lucasmanoel1&layout=compact&theme=dark&hide_border=true" height="180em""/>
 </div>
 
-
-<br><br>
-<h2 align="">Tecnologias que eu uso no meu dia a dia</h2>
 <br>
-<p align="">
-  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img alt="PHP" src="https://img.shields.io/badge/php-%23777BB4.svg?style=for-the-badge&logo=php&logoColor=white" />
-  <img alt="nodejs" src="https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&logo=node.js&logoColor=white" />
-  <img alt="js" src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-  <img alt="Next.js" src="https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white" />
-  <img alt="HTML5" src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
-  <img alt="CSS3" src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" /><br>
-  <img alt="GITHUB" src="https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white" />
-  <img alt="GIT" src="https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white" />
-  <img alt="Docker" src="https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white" />
-  <img alt="PostgreSQL" src="https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white" />
-</p>
 
-
-<br><br>
-<h2>O que eu estou aprendendo e explorando agora</h2>
+<h2>Stack principal</h2>
 
 <p>
-  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-F2F4F9?style=for-the-badge&logo=spring-boot"/> 
-  <img alt="AWS" src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonaws&logoColor=white" />
-  <img alt="TypeScript" src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" />
+  <img alt="Java" src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white"/>
+  <img alt="Spring Boot" src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=for-the-badge&logo=spring-boot&logoColor=white"/>
+  <img alt="Spring Security" src="https://img.shields.io/badge/Spring_Security-6DB33F?style=for-the-badge&logo=springsecurity&logoColor=white"/>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white"/>
+  <img alt="MongoDB" src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white"/>
+  <img alt="Docker" src="https://img.shields.io/badge/Docker-0db7ed?style=for-the-badge&logo=docker&logoColor=white"/>
+  <img alt="Git" src="https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white"/>
 </p>
 
+<br>
 
-<br><br>
-<h2 align="center">Entre em Contato!</h2>
+<h2>Ferramentas que uso nos projetos</h2>
+
+<p>
+  <img alt="JUnit 5" src="https://img.shields.io/badge/JUnit5-25A162?style=for-the-badge&logo=junit5&logoColor=white"/>
+  <img alt="Mockito" src="https://img.shields.io/badge/Mockito-C5D9C8?style=for-the-badge"/>
+  <img alt="MapStruct" src="https://img.shields.io/badge/MapStruct-ED2025?style=for-the-badge"/>
+  <img alt="OpenFeign" src="https://img.shields.io/badge/OpenFeign-6DB33F?style=for-the-badge"/>
+  <img alt="SonarQube" src="https://img.shields.io/badge/SonarQube-4E9BCD?style=for-the-badge&logo=sonarqube&logoColor=white"/>
+  <img alt="GitHub Actions" src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white"/>
+</p>
+
+<br>
 
 <p align="center">
-  Sinta-se à vontade para me contatar. Adoro conhecer novas pessoas e discutir sobre tecnologia!
+  <a href="mailto:contato@lucasmanoel.com">contato@lucasmanoel.com</a>
 </p>
-
-<p align="center">
-  <a href="mailto:lucasmanoel.email@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"></a>
-  <a href="https://www.linkedin.com/in/lucas-manoel-developer/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"></a>
-  <a href="https://x.com/LucasMa30817760"><img src="https://img.shields.io/badge/Twitter/X-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white"></a>
-  <a href="https://www.instagram.com/zzlucca_/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"></a>
-</p>
-
